@@ -1,2 +1,2 @@
-# jagan
-Unmanned Aerial Vechicle
+# Unmanned Aerial Vehicle Fault Tolerance System design
+I just started to develop FTS for hybrid UAV. Will update the files soon.... 
